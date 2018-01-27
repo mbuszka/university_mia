@@ -42,8 +42,8 @@ PRG_SUFFIX_FLAG := 0
 LDFLAGS := 
 CFLAGS_INC := 
 CFLAGS := -g -Wall $(CFLAGS_INC)
-CXX := clang
-CC := clang
+CXX := clang++
+CC := clang++
 #
 ## ==================- NOTHING TO CHANGE BELOW THIS LINE ===================
 ##
